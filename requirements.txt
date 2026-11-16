@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+spacy==3.8.16
+scikit-learn
+joblib
+transformers
+torch
+sentencepiece
+uvicorn
